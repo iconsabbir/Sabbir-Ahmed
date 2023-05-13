@@ -1,0 +1,120 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Lilita+One&family=Roboto:ital,wght@1,100&display=swap');
+
+
+.caffe-color{
+    text-align: center;
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.section-1{
+    
+        
+}
+.section-1 hr{
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+    width: 90%;
+}
+.section-1 h1{
+    padding: 100px 0 2px;
+    ont-family: 'Lilita One', cursive;
+    font-size: 50px;
+}
+.section-1 h4{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.section-1 h3{
+    font-size: 40px;
+    ont-family: 'Lilita One', cursive;
+}
+
+.coffe-logo  img{
+    font-size: 10px;
+    width: 80px;
+}
+
+.coffe-list h3{
+    display: inline-block;
+}
+.coffe-list p{
+    display: inline-block;
+}
+.item-list h3{
+    text-align: left;
+    width: 50%;
+    font-size: 22px;
+}
+.item-list p{
+   text-align: right;
+   width: 40%;
+   font-size: 22px;
+      
+
+}
+.tasty-cak{
+    padding: 20px 0 80px;
+}
+
+.cak h1{
+    font-size: 40px;
+    ont-family: 'Lilita One', cursive;
+    
+
+}
+.logo-slice-cake img{
+    font-size: 10px;
+    width: 70px;
+}
+.cak-item h3{
+    display: inline-block;
+}
+.cak-item p{
+    display: inline-block;
+}
+
+.cak-list h3{
+   text-align: left;
+   width: 50%;
+font-size: 22px;
+
+    
+}
+.cak-list p{
+    text-align: right;
+    width: 40%;
+    font-size: 22px;;
+}
+hr{
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+    width: 90%;
+    margin-top: 30px;
+}
+
+
+.visit{
+
+}
+.visit p{
+    text-transform: uppercase;
+    padding: 20px 0 0 2px;
+}
+.visit a{
+    color:black;
+}
+.visit a:hover{
+    color: brown;
+}
+
+.visit h6{
+    font-size: 15px;
+}
